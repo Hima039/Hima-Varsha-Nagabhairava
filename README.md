@@ -1,71 +1,63 @@
-# Hima-Varsha-Nagabhairava 👩‍💻
+# 👩‍💻 Nagabhirava Hima Varsha
 
-
-🎓 **College Graduate | Aspiring Software Engineer**  
-📫 **Email:** hima.nagabhairava@gamil.com  
-📱 **Phone:** +91 8019710097  
-🔗 [LinkedIn](https://www.linkedin.com/in/nagabhirava-hima-varsha-65984125b/)
+🚀 **About Me**  
+I am a passionate and committed final-year Computer Science and Engineering student with a specialization in emerging technologies like **Web Development**, **Software Engineering**, and **Artificial Intelligence**. I bring hands-on experience through multiple internships and certifications, with a proven ability to build scalable, user-focused solutions. I thrive in collaborative environments and aim to contribute meaningfully to innovative tech projects.
 
 ---
 
-## 🎯 Career Objective
+🎓 **Education**  
+**B.Tech in Computer Science and Engineering**  
+Chalapathi Institute of Engineering & Technology (Ongoing, 73%)
 
-As a dedicated and highly motivated Computer Science senior, I have built a strong foundation in **Software Development**, **Web Development**, and **Machine Learning**. Through hands-on experience in internships, academic projects, and extracurricular activities, I have demonstrated a strong ability to solve complex problems and a passion for continuous learning.
+**Intermediate (MPC)**  
+Sri Vardhani Junior College (80%)
 
-I aim to leverage my background in **Front-End Development** and **AI/ML** to make a meaningful impact in the tech industry. 🚀
-
----
-
-## 🎓 Education
-
-- **B.Tech – Chalapathi Institute of Engineering and Technology**  
-  📅 Dec 2021 – Feb 2025 | 🏆 CGPA: 73% (Ongoing)
-
-- **Intermediate – Sri Vardhani Junior College**  
-  📅 June 2019 – July 2021 | 🏆 Score: 80%
-
-- **Secondary Education – Vignan High School**  
-  📅 June 2018 – March 2019 | 🏆 Score: 85%
+**SSC (10th Grade)**  
+Vignan High School (85%)
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ **Skills**
 
-- 🌐 **Web Technologies:** HTML, CSS, JavaScript  
-- 💻 **Programming Languages:** Python, Java, C  
-- 🗄️ **Databases:** MySQL  
-- 📱 **Operating Systems:** Windows, Android  
-- ⚛️ **Libraries/Frameworks:** React
+**Programming Languages:**  
+Python, Java, C
 
----
+**Web Technologies:**  
+HTML, CSS, JavaScript
 
-## 🧾 Certifications
+**Frameworks & Libraries:**  
+React, Angular, Node.js, TypeScript
 
-- 🎓 Node.js, JavaScript, TypeScript, Angular – Infosys Springboard  
-- 🐍 Python Essentials 1 & 2 – Cisco  
-- 🤖 Android Developer Virtual Internship – Google  
-- ☁️ Data Engineering Virtual Internship – AWS Academy  
-- 🧠 AI & ML Internship – Google  
-- 🔧 Microchip Embedded System Developer – Microchip  
-- 🔄 Intelligent Automation Virtual Internship – SS&C | Blue Prism
+**Databases:**  
+MySQL
+
+**Operating Systems:**  
+Windows, Android
 
 ---
 
-## 💼 Additional Skills
-
-- 🧑‍💼 Proficient in Microsoft Office Suite  
-- ⌨️ Typing speed: 58 WPM with 97.8% accuracy  
-- 🤝 Team player and able to work independently  
-- 📊 Advanced user of Microsoft Excel  
-
----
-
-## 🌍 Languages
-
-- English 🇬🇧  
-- Hindi 🇮🇳  
-- Telugu 🌐
+💼 **Certifications & Internships**  
+- Python Essentials 1 & 2 – CISCO  
+- Android Developer Virtual Internship – Google  
+- Data Engineering Virtual Internship – AWS Academy  
+- AI & ML Internship – Google  
+- Microchip Embedded Systems Developer – Microchip  
+- Intelligent Automation Internship – SS&C | Blue Prism  
+- Software Engineering & Agile Development – Infosys Springboard  
 
 ---
 
-📌 _"Passionate about innovation, learning, and solving real-world problems through technology."_ 💡
+🔥 **Core Competencies**  
+- Fast learner with a strong foundation in core CS principles  
+- Typing speed: 58 WPM (97.8% accuracy)  
+- Proficient in Microsoft Office and Excel  
+- Effective team player with the ability to work independently  
+- Strong alignment with organizational goals and tech vision  
+
+---
+
+📬 **Contact Me**  
+📧 Email: hima.nagabhairava@gamil.com  
+📱 Phone: +91 8019710097  
+🔗 LinkedIn: [linkedin.com/in/nagabhirava-hima-varsha-65984125b](https://www.linkedin.com/in/nagabhirava-hima-varsha-65984125b)  
+🌐 GitHub: [github.com/Hima039](https://github.com/Hima039)  
