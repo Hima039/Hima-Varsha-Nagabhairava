@@ -1,6 +1,5 @@
-# Hima-Varsha-Nagabhairava
+# Hima-Varsha-Nagabhairava 👩‍💻
 
-# 👩‍💻 Nagabhirava Hima Varsha
 
 🎓 **College Graduate | Aspiring Software Engineer**  
 📫 **Email:** hima.nagabhairava@gamil.com  
