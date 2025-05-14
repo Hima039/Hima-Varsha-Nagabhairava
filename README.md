@@ -1,4 +1,4 @@
-# 👩‍💻 Nagabhirava Hima Varsha
+# 👩‍💻 NAGABHIRAVA HIMA VARSHA
 
 🚀 **About Me**  
 I am a passionate and committed final-year Computer Science and Engineering student with a specialization in emerging technologies like **Web Development**, **Software Engineering**, and **Artificial Intelligence**. I bring hands-on experience through multiple internships and certifications, with a proven ability to build scalable, user-focused solutions. I thrive in collaborative environments and aim to contribute meaningfully to innovative tech projects.
